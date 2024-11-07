@@ -1,12 +1,12 @@
 # AIDAO 2024
 
-- Comsists of online qualifiers and offline main event
+- Consists of online qualifiers and offline main event
 - Online qualifiers has two tasks: Tabular data clustering and 3D images classification
 - [Main competition website](https://education.yandex.ru/aidao)
 - [Qualification contest](https://contest.yandex.com/contest/68727)
 - [Data and baselines](https://github.com/atolstikov/aidao24)
 
-> [First place solutions from some students](https://github.com/incllude/AIDAO24)
+> [First place solution from some students](https://github.com/incllude/AIDAO24)
 
 ## Some thoughts and links related to qualifiers' tasks
 
